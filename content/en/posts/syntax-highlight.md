@@ -2,13 +2,13 @@
 title: "Syntax highlighting"
 date: 2019-12-18T10:33:41+09:00
 description: "Syntax highlighting test"
-draft: false
+draft: true
 hideToc: false
 enableToc: true
 enableTocContent: false
 author: Jeus
 authorEmoji: 🎅
-pinned: true
+pinned: false
 tags:
 - hugo
 series:

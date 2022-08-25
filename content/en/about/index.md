@@ -1,27 +1,19 @@
 +++
 title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
+description = "About Kevin Neubauer"
 type = "about"
-date = "2019-02-28"
+date = "2022-08-25"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+I’ve always had a fascination with tearing things down and “pushing all the buttons” to see how they work. Something inside of me seems to natively speak machine. As a child, any time I could sit in front of relatives or friends Intel 286 and 386 computers, I would poke around the DOS command line, listing out all of the executables, reading their help text, and experimenting with their switches and parameters to find out how they work (after I made sure they weren’t going to do anything damaging). Any time I would get any free or dead consumer electronics, I would crack the case open and see what I could learn about the insides.
 
-Hugo makes use of a variety of open source projects including:
+My approach towards learning now isn’t a lot different than it was when I was a kid. I’ve got more resources and access to knowledge than years ago, but I still poke and prod at accessible interfaces and command lines and pull out my spudgers and screwdrivers when seeing how a device works.
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+I’m an avid maker. There’s something intensely satisfying about holding something in your hands that started as a sketch or schematic. My passions lately have been in the areas of 3D printing and electronic design and assembly.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+My educational and career life has consisted of computer systems engineering and programming. I’ve done everything from coding integrations, applications, and architecting and deploying systems that support millions of users.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+After several years of success in the systems architecture and engineering area of IT, I’ve decided to transition to Information Security. I’d like to focus on embedded systems (i.e. IoT) penetration testing and reverse engineering as well as web application pen testing.
 
 
 
